@@ -69,6 +69,7 @@ h2 {
     flex-direction: column;
     justify-content: center;
     align-content: center;
+
 }
 
 #faculty>ul>li {
@@ -87,6 +88,7 @@ h2 {
                         550px width of screen. */
     justify-content: center;
     align-content: center;
+
 }
 
 .name {

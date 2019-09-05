@@ -15,7 +15,8 @@ Please read carefully the list of technical requirements below and follow it pre
     - Pro tip: Some newer CSS features are not widely supported. If a CSS feature you use is not supported in some browsers, please clearly indicate which browsers support it and which ones don't.
     - We've provided links to both the HTML validator and the CSS validator in the
     `Validation` section of the page. Both validate "out of the box", and you should
-    make sure they continue to validate as you go through the lab.
+    make sure they continu 
+ e to validate as you go through the lab.
   - Your CSS must make the page **look reasonable and be relatively easy to navigate.** We will take points off for features that lead to a problematic user experience. Take care that your design avoids common pitfalls.
     - Avoid links that are hard to see.
     - Avoid unpleasant color combinations.
@@ -32,7 +33,10 @@ Please read carefully the list of technical requirements below and follow it pre
       on phones now than on computers](https://www.theguardian.com/technology/2016/nov/02/mobile-web-browsing-desktop-smartphones-tablets).
       By using fancy styling and other tools to adjust how a web page looks, developers can make a single page that will look good
       on multiple screen sizes rather than constructing multiple
-      designs for each type of device. To see how your page would look on some phones or tablets:
+      designs for each typThis criterion is linked to a Learning OutcomeUsable, reasonable page (even when viewed on smaller mobile devices)
+(links are easy to see, color combinations are pleasant, fonts are easy to read, looks reasonable even when resized)
+8.0 pts
+All four listed criteria are met (links are easy to see, color combinations are pleasant, fonts are easy e of device. To see how your page would look on some phones or tablets:
       Open your page in Chrome > right-click the page > click "inspect element" > click the little phone symbol in the top-left corner. This will show roughly what your site would look like on the chosen device. In Firefox, click on the Developer button and choose Responsive Design mode. Or just resize your browser
       window so that it's really narrow and see how it behaves.
   - Your CSS can leverage the fact that the page has the following **elements of interest**; see [the links in the README](./README.md) for support in understanding how to use CSS to alter the look of the page. You should particularly care about these features that were included to make the CSS more fun:

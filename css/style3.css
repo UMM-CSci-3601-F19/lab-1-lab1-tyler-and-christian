@@ -7,10 +7,18 @@ use float to make something locate itself on the right or left
 
 */
 
+/*
+Change background color to white
+ */
+
 body{
     padding: 30px;
     background-color: antiquewhite;
 }
+
+/*
+Add text decoration underline and color to the title
+ */
 
 #main-title {
   font-family: 'Patua One', monospace;
@@ -20,17 +28,26 @@ body{
   text-decoration-color: darkred;
 }
 
+
+/*
+Change list style type from numbers to circles
+ */
+
 .section li {
   list-style-type: circle;
 }
 
-#pslo {
+/*
+Grouped pslo and courses and made font Arial Black
+ */
+
+#pslo , #courses{
   font-family: "Arial Black";
 }
 
-#courses {
-  font-family: "Arial Black";
-}
+/*
+Change flex-direction of faculty images so they are aligned side by side
+ */
 
 #faculty {
   background-color: #f9f7f6;
